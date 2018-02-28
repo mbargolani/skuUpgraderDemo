@@ -1,0 +1,12 @@
+C:\Users\marina.bargolani\Documents\Visual Studio 2017\Projects\skuUpgraderDemo\skuUpgraderDemo\bin\Debug\skuUpgraderDemo.exe.config
+C:\Users\marina.bargolani\Documents\Visual Studio 2017\Projects\skuUpgraderDemo\skuUpgraderDemo\bin\Debug\skuUpgraderDemo.exe
+C:\Users\marina.bargolani\Documents\Visual Studio 2017\Projects\skuUpgraderDemo\skuUpgraderDemo\bin\Debug\skuUpgraderDemo.pdb
+C:\Users\marina.bargolani\Documents\Visual Studio 2017\Projects\skuUpgraderDemo\skuUpgraderDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marina.bargolani\Documents\Visual Studio 2017\Projects\skuUpgraderDemo\skuUpgraderDemo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\marina.bargolani\Documents\Visual Studio 2017\Projects\skuUpgraderDemo\skuUpgraderDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marina.bargolani\Documents\Visual Studio 2017\Projects\skuUpgraderDemo\skuUpgraderDemo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\marina.bargolani\Documents\Visual Studio 2017\Projects\skuUpgraderDemo\skuUpgraderDemo\obj\Debug\skuUpgraderDemo.csprojResolveAssemblyReference.cache
+C:\Users\marina.bargolani\Documents\Visual Studio 2017\Projects\skuUpgraderDemo\skuUpgraderDemo\obj\Debug\skuUpgraderDemo.csproj.skuUpgraderDemo.exe.config
+C:\Users\marina.bargolani\Documents\Visual Studio 2017\Projects\skuUpgraderDemo\skuUpgraderDemo\obj\Debug\skuUpgraderDemo.csproj.CoreCompileInputs.cache
+C:\Users\marina.bargolani\Documents\Visual Studio 2017\Projects\skuUpgraderDemo\skuUpgraderDemo\obj\Debug\skuUpgraderDemo.exe
+C:\Users\marina.bargolani\Documents\Visual Studio 2017\Projects\skuUpgraderDemo\skuUpgraderDemo\obj\Debug\skuUpgraderDemo.pdb
